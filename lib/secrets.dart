@@ -1,0 +1,1 @@
+const openAIAPIKey='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';
